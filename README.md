@@ -9,4 +9,4 @@
 - 防止Heroku休眠：https://uptimerobot.com/ ， 定时每5分钟访问一次
 - v3:由于配置保存在postgres中，重启不会导致配置丢失
 ### 相关
-[PanIndex](https://github.com/libsgh/PanIndex)
+[PanIndex](https://github.com/jmheqiao/PanIndex)
